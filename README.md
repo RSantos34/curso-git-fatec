@@ -1,2 +1,2 @@
 # curso-git-fatec
-Curso de versionamento semântico semana tecnologia fatec 2022
+Curso de versionamento semântico semana tecnologia Fatec 2022
